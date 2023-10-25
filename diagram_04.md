@@ -22,5 +22,4 @@ sequenceDiagram
     activate server
     server-->>browser: [{ "content": "Our note", "date": "Current date" },]
     deactivate server
-    
 ```
