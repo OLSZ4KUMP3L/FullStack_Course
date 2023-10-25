@@ -22,4 +22,5 @@ sequenceDiagram
     activate server
     server->>browser: the data.json file
     deactivate server
+    
 ```

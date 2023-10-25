@@ -27,4 +27,5 @@ sequenceDiagram
     activate server
     server->>browser: the new_note_spa.json
     deactivate server
+    
 ```
